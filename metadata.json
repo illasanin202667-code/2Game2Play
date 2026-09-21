@@ -1,0 +1,6 @@
+{
+  "name": "Ігри на двох",
+  "description": "Колекція з 4 захоплюючих ігор для двох гравців на одному телефоні: Більше чи Менше, Вгадай чудо, Гарна памʼять та Ой-ой бум бум.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
